@@ -4,7 +4,7 @@ using System.Collections;
 public class CameraFollow : MonoBehaviour {
 
     //ayy lmao
-	public Transform potato;
+	public Transform myTarget;
 //SUCK MY DICK
 	void Update () {
 	
