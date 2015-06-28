@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class DamageHandler : MonoBehaviour {
-
+//Brandon loves colliding
 	public int health = 1;
 	public float invulnPeriod = 0;
 	float invulnTimer = 0;
