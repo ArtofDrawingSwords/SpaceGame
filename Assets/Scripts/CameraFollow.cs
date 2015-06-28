@@ -4,7 +4,7 @@ using System.Collections;
 public class CameraFollow : MonoBehaviour {
 
 	public Transform myTarget;
-
+//SUCK MY DICK
 	void Update () {
 	
 		if (myTarget != null) {
